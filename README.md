@@ -92,5 +92,5 @@ Based on the results obtained from the grid search, the XGBRegressor model was c
 
 The XGBRegressor model achieved a best score of 0.9875798991169574, indicating its ability to accurately predict the gold price based on the available features.
 
-The complete implementation details, code, and additional analysis can be found in the corresponding Jupyter Notebook or script files.
+The complete implementation details, code, and additional analysis can be found in the corresponding Jupyter Notebook
 
